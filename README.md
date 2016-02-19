@@ -1,0 +1,2 @@
+# SquidCE
+Squid cache extractor
